@@ -16,8 +16,8 @@ Más allá de hacer juegos, buscamos innovar y contar historias que enganchen a 
 ## 📩 ¡Contáctanos!
 Si te interesa nuestro trabajo o quieres colaborar con nosotros, ¡no dudes en contactarnos! 📬 Estamos emocionados por lo que viene y por seguir creciendo en la industria del videojuego. 🎮🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu_usuario/](https://www.linkedin.com/in/programenso-studios-974213306/))
-
+## 🌐 Redes Sociales 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programenso-studios-974213306/)  [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://programensostudios.itch.io/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programenso_studios/#)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572395948714)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@programenso)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProgramensoStudios)  
 <!--
 **ProgramensoStudios/ProgramensoStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
