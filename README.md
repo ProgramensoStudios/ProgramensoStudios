@@ -16,6 +16,7 @@ Más allá de hacer juegos, buscamos innovar y contar historias que enganchen a 
 ## 📩 ¡Contáctanos!
 Si te interesa nuestro trabajo o quieres colaborar con nosotros, ¡no dudes en contactarnos! 📬 Estamos emocionados por lo que viene y por seguir creciendo en la industria del videojuego. 🎮🚀
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu_usuario/](https://www.linkedin.com/in/programenso-studios-974213306/))
 
 <!--
 **ProgramensoStudios/ProgramensoStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
