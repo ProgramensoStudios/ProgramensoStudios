@@ -5,10 +5,11 @@
 Programenso Studios es un equipo apasionado por el desarrollo de videojuegos. 🎨🎶 Nos encanta crear experiencias únicas que desafíen la creatividad y la habilidad de los jugadores. Desde nuestros inicios, hemos trabajado en proyectos que van desde juegos educativos 📚 hasta aventuras llenas de acción y estrategia ⚔️.
 
 ## 🕹️ Algunos de nuestros juegos incluyen:
-- **🍱 Bento**: Un desafiante juego de estrategia basado en la organización de bentos.
-- **💃 Salsa Salsa**: Un divertido juego de ritmo inspirado en la cultura latina.
-- **📏 Doodle Math**: Un juego educativo que hace que las matemáticas sean más accesibles y entretenidas.
 - **🧼 Poggy Splash**: Un competitivo multijugador donde cuatro jugadores luchan por recolectar la mayor cantidad de jabones en un tiempo límite.
+- **🐶 Cherry Dojo Quest**: Un desarrollo de experiencia interactiva en Roblox para Twitch, conectando a más de 50 streamers en un evento competitivo de 3 días.
+- **🍕 Pizza Pizza Stadium**: Un desarrollo de mapa personalizado en Fortnite para Little Caesars con dinámica Battle Royale orientada a torneos.
+- **💃 Dance & Seek**: Un juego de ritmo y sigilo en Roblox donde la música y el movimiento coordinado determinan tu supervivencia.
+- **🎤 Real Under**: Un Concierto inmersivo en Roblox creado para el lanzamiento del EP "Real Under" con dinámicas en vivo para los fans, utilizando tecnología motion capture.
 
 ## 🌟 Nuestra misión
 Más allá de hacer juegos, buscamos innovar y contar historias que enganchen a nuestros jugadores. Nos motiva la idea de explorar nuevos géneros, desafiar las mecánicas tradicionales y llevar nuestra creatividad al siguiente nivel. 🎭✨
